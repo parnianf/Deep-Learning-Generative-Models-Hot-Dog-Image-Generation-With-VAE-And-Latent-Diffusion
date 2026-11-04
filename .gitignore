@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Data, model weights and checkpoints (large files are not stored in the repository)
+food-101/
+food-101.tar.gz
+dl/
+cache/
+icl_dl_cw2_utils/
+*.pt
+*.pth
+history.json
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
